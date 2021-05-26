@@ -75,3 +75,7 @@ nohup: ignoring input
 [Epoch 1536 TEST] bpp: 1.6031 psnr: 28.2774
 [Epoch 1537 TRAIN] Loss: 18.3883 bpp: 1.7046 mse: 556.1230  
 [Epoch 1537 TEST] bpp: 1.5351 psnr: 28.7044
+[Epoch 1538 TRAIN] Loss: 17.3572 bpp: 1.7182 mse: 521.3007  
+[Epoch 1538 TEST] bpp: 1.5167 psnr: 28.9285
+[Epoch 1539 TRAIN] Loss: 17.5815 bpp: 1.7251 mse: 528.5459  
+[Epoch 1539 TEST] bpp: 1.6329 psnr: 27.9838

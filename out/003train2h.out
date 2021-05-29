@@ -25,3 +25,19 @@ nohup: ignoring input
 [Epoch 1511 TEST] bpp: 1.2114 psnr: 25.2346
 [Epoch 1512 TRAIN] Loss: 32.9328 bpp: 1.4024 mse: 1051.0130  
 [Epoch 1512 TEST] bpp: 1.1355 psnr: 26.0154
+[Epoch 1513 TRAIN] Loss: 32.1421 bpp: 1.4378 mse: 1023.4777  
+[Epoch 1513 TEST] bpp: 1.1399 psnr: 26.9973
+[Epoch 1514 TRAIN] Loss: 30.7429 bpp: 1.4545 mse: 976.2795  
+[Epoch 1514 TEST] bpp: 1.3001 psnr: 25.3883
+[Epoch 1515 TRAIN] Loss: 28.9947 bpp: 1.4578 mse: 917.8964  
+[Epoch 1515 TEST] bpp: 1.2767 psnr: 26.3646
+[Epoch 1516 TRAIN] Loss: 28.1671 bpp: 1.4792 mse: 889.5972  
+[Epoch 1516 TEST] bpp: 1.2713 psnr: 26.1297
+[Epoch 1517 TRAIN] Loss: 27.1442 bpp: 1.5029 mse: 854.7121  
+[Epoch 1517 TEST] bpp: 1.2613 psnr: 26.7493
+[Epoch 1518 TRAIN] Loss: 27.0032 bpp: 1.5117 mse: 849.7165  
+[Epoch 1518 TEST] bpp: 1.2040 psnr: 27.1833
+[Epoch 1519 TRAIN] Loss: 26.4206 bpp: 1.5255 mse: 829.8363  
+[Epoch 1519 TEST] bpp: 1.3326 psnr: 26.7473
+[Epoch 1520 TRAIN] Loss: 25.6337 bpp: 1.5323 mse: 803.3819  
+[Epoch 1520 TEST] bpp: 1.3761 psnr: 26.5674

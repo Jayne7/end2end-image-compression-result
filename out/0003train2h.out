@@ -33,3 +33,29 @@ nohup: ignoring input
 [Epoch 1515 TEST] bpp: 0.4780 psnr: 26.6626
 [Epoch 1516 TRAIN] Loss: 3.5630 bpp: 0.7640 mse: 933.0115  
 [Epoch 1516 TEST] bpp: 0.5824 psnr: 25.8793
+[Epoch 1517 TRAIN] Loss: 3.5063 bpp: 0.7759 mse: 910.1287  
+[Epoch 1517 TEST] bpp: 0.5475 psnr: 26.3198
+[Epoch 1518 TRAIN] Loss: 3.3764 bpp: 0.7671 mse: 869.7723  
+[Epoch 1518 TEST] bpp: 0.5409 psnr: 25.9551
+[Epoch 1519 TRAIN] Loss: 3.4601 bpp: 0.7719 mse: 896.0731  
+[Epoch 1519 TEST] bpp: 0.5197 psnr: 26.5099
+[Epoch 1520 TRAIN] Loss: 3.2974 bpp: 0.7738 mse: 841.2182  
+[Epoch 1520 TEST] bpp: 0.5557 psnr: 26.4986
+[Epoch 1521 TRAIN] Loss: 3.2431 bpp: 0.7672 mse: 825.3031  
+[Epoch 1521 TEST] bpp: 0.5568 psnr: 26.4321
+[Epoch 1522 TRAIN] Loss: 3.1536 bpp: 0.7632 mse: 796.7990  
+[Epoch 1522 TEST] bpp: 0.5623 psnr: 27.1550
+[Epoch 1523 TRAIN] Loss: 3.0510 bpp: 0.7543 mse: 765.5743  
+[Epoch 1523 TEST] bpp: 0.5651 psnr: 26.6306
+[Epoch 1524 TRAIN] Loss: 3.0718 bpp: 0.7660 mse: 768.5828  
+[Epoch 1524 TEST] bpp: 0.5746 psnr: 26.7311
+[Epoch 1525 TRAIN] Loss: 3.0567 bpp: 0.7663 mse: 763.4544  
+[Epoch 1525 TEST] bpp: 0.5374 psnr: 27.2246
+[Epoch 1526 TRAIN] Loss: 3.0397 bpp: 0.7680 mse: 757.2393  
+[Epoch 1526 TEST] bpp: 0.5507 psnr: 27.4554
+[Epoch 1527 TRAIN] Loss: 2.9050 bpp: 0.7494 mse: 718.5104  
+[Epoch 1527 TEST] bpp: 0.5366 psnr: 27.5101
+[Epoch 1528 TRAIN] Loss: 2.9260 bpp: 0.7625 mse: 721.1849  
+[Epoch 1528 TEST] bpp: 0.5570 psnr: 27.3884
+[Epoch 1529 TRAIN] Loss: 2.7923 bpp: 0.7503 mse: 680.6518  
+[Epoch 1529 TEST] bpp: 0.5697 psnr: 26.5364

@@ -1,0 +1,9 @@
+nohup: ignoring input
+[Epoch 1500 TRAIN] Loss: 42.6268 bpp: 1.2546 mse: 6895.3688  
+[Epoch 1500 TEST] bpp: 0.7669 psnr: 20.3819
+[Epoch 1501 TRAIN] Loss: 18.5491 bpp: 0.9780 mse: 2928.5145  
+[Epoch 1501 TEST] bpp: 0.6872 psnr: 21.1494
+[Epoch 1502 TRAIN] Loss: 14.7097 bpp: 0.9751 mse: 2289.0936  
+[Epoch 1502 TEST] bpp: 0.7064 psnr: 22.5869
+[Epoch 1503 TRAIN] Loss: 12.2278 bpp: 0.9620 mse: 1877.6286  
+[Epoch 1503 TEST] bpp: 0.7138 psnr: 23.4791

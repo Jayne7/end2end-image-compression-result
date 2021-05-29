@@ -57,3 +57,445 @@ nohup: ignoring input
 [Epoch 1527 TEST] bpp: 0.2601 psnr: 26.9619
 [Epoch 1528 TRAIN] Loss: 1.3054 bpp: 0.3898 mse: 915.5554  
 [Epoch 1528 TEST] bpp: 0.2718 psnr: 26.3649
+[Epoch 1529 TRAIN] Loss: 1.2873 bpp: 0.3866 mse: 900.6963  
+[Epoch 1529 TEST] bpp: 0.2768 psnr: 25.7391
+[Epoch 1530 TRAIN] Loss: 1.2942 bpp: 0.3912 mse: 903.0296  
+[Epoch 1530 TEST] bpp: 0.3075 psnr: 24.7439
+[Epoch 1531 TRAIN] Loss: 1.2821 bpp: 0.3886 mse: 893.4504  
+[Epoch 1531 TEST] bpp: 0.2856 psnr: 26.1580
+[Epoch 1532 TRAIN] Loss: 1.2942 bpp: 0.3897 mse: 904.5443  
+[Epoch 1532 TEST] bpp: 0.2714 psnr: 26.2264
+[Epoch 1533 TRAIN] Loss: 1.2903 bpp: 0.3902 mse: 900.0661  
+[Epoch 1533 TEST] bpp: 0.2603 psnr: 26.7997
+[Epoch 1534 TRAIN] Loss: 1.2475 bpp: 0.3827 mse: 864.7603  
+[Epoch 1534 TEST] bpp: 0.2619 psnr: 26.8849
+[Epoch 1535 TRAIN] Loss: 1.2343 bpp: 0.3877 mse: 846.6341  
+[Epoch 1535 TEST] bpp: 0.2756 psnr: 26.5710
+[Epoch 1536 TRAIN] Loss: 1.2283 bpp: 0.3870 mse: 841.3145  
+[Epoch 1536 TEST] bpp: 0.2735 psnr: 26.2932
+[Epoch 1537 TRAIN] Loss: 1.2211 bpp: 0.3864 mse: 834.7689  
+[Epoch 1537 TEST] bpp: 0.2745 psnr: 26.5746
+[Epoch 1538 TRAIN] Loss: 1.2066 bpp: 0.3827 mse: 823.9078  
+[Epoch 1538 TEST] bpp: 0.2835 psnr: 26.4972
+[Epoch 1539 TRAIN] Loss: 1.2282 bpp: 0.3848 mse: 843.3873  
+[Epoch 1539 TEST] bpp: 0.2783 psnr: 26.4591
+[Epoch 1540 TRAIN] Loss: 1.2430 bpp: 0.3903 mse: 852.6845  
+[Epoch 1540 TEST] bpp: 0.2762 psnr: 26.5307
+[Epoch 1541 TRAIN] Loss: 1.2152 bpp: 0.3880 mse: 827.2172  
+[Epoch 1541 TEST] bpp: 0.2886 psnr: 26.3847
+[Epoch 1542 TRAIN] Loss: 1.1768 bpp: 0.3835 mse: 793.2763  
+[Epoch 1542 TEST] bpp: 0.2889 psnr: 26.6323
+[Epoch 1543 TRAIN] Loss: 1.2167 bpp: 0.3903 mse: 826.3886  
+[Epoch 1543 TEST] bpp: 0.2887 psnr: 26.1350
+[Epoch 1544 TRAIN] Loss: 1.2228 bpp: 0.3893 mse: 833.4415  
+[Epoch 1544 TEST] bpp: 0.2983 psnr: 26.2647
+[Epoch 1545 TRAIN] Loss: 1.1808 bpp: 0.3861 mse: 794.6916  
+[Epoch 1545 TEST] bpp: 0.3034 psnr: 26.3259
+[Epoch 1546 TRAIN] Loss: 1.1879 bpp: 0.3895 mse: 798.4438  
+[Epoch 1546 TEST] bpp: 0.2665 psnr: 27.1068
+[Epoch 1547 TRAIN] Loss: 1.1888 bpp: 0.3872 mse: 801.5568  
+[Epoch 1547 TEST] bpp: 0.2898 psnr: 26.6977
+[Epoch 1548 TRAIN] Loss: 1.1837 bpp: 0.3915 mse: 792.2054  
+[Epoch 1548 TEST] bpp: 0.2664 psnr: 27.2891
+[Epoch 1549 TRAIN] Loss: 1.1673 bpp: 0.3868 mse: 780.4534  
+[Epoch 1549 TEST] bpp: 0.3034 psnr: 26.2989
+[INFO] Saving
+[Epoch 1550 TRAIN] Loss: 1.1657 bpp: 0.3873 mse: 778.3652  
+[Epoch 1550 TEST] bpp: 0.2900 psnr: 27.0273
+[Epoch 1551 TRAIN] Loss: 1.1665 bpp: 0.3886 mse: 777.8769  
+[Epoch 1551 TEST] bpp: 0.2756 psnr: 27.0225
+[Epoch 1552 TRAIN] Loss: 1.1823 bpp: 0.3883 mse: 793.9904  
+[Epoch 1552 TEST] bpp: 0.2945 psnr: 26.3942
+[Epoch 1553 TRAIN] Loss: 1.1516 bpp: 0.3885 mse: 763.0987  
+[Epoch 1553 TEST] bpp: 0.2823 psnr: 27.1640
+[Epoch 1554 TRAIN] Loss: 1.1448 bpp: 0.3885 mse: 756.2685  
+[Epoch 1554 TEST] bpp: 0.2836 psnr: 27.1123
+[Epoch 1555 TRAIN] Loss: 1.1401 bpp: 0.3889 mse: 751.2121  
+[Epoch 1555 TEST] bpp: 0.2866 psnr: 27.1523
+[Epoch 1556 TRAIN] Loss: 1.1306 bpp: 0.3882 mse: 742.3998  
+[Epoch 1556 TEST] bpp: 0.2910 psnr: 27.0187
+[Epoch 1557 TRAIN] Loss: 1.1332 bpp: 0.3876 mse: 745.5633  
+[Epoch 1557 TEST] bpp: 0.2932 psnr: 26.6502
+[Epoch 1558 TRAIN] Loss: 1.1282 bpp: 0.3870 mse: 741.2450  
+[Epoch 1558 TEST] bpp: 0.2669 psnr: 27.4943
+[Epoch 1559 TRAIN] Loss: 1.1227 bpp: 0.3857 mse: 737.0150  
+[Epoch 1559 TEST] bpp: 0.2864 psnr: 27.2682
+[Epoch 1560 TRAIN] Loss: 1.1558 bpp: 0.3915 mse: 764.3048  
+[Epoch 1560 TEST] bpp: 0.3090 psnr: 26.6763
+[Epoch 1561 TRAIN] Loss: 1.1005 bpp: 0.3859 mse: 714.6137  
+[Epoch 1561 TEST] bpp: 0.2947 psnr: 27.1588
+[Epoch 1562 TRAIN] Loss: 1.0984 bpp: 0.3857 mse: 712.7238  
+[Epoch 1562 TEST] bpp: 0.2824 psnr: 27.3372
+[Epoch 1563 TRAIN] Loss: 1.1185 bpp: 0.3880 mse: 730.5655  
+[Epoch 1563 TEST] bpp: 0.2849 psnr: 27.1384
+[Epoch 1564 TRAIN] Loss: 1.1079 bpp: 0.3875 mse: 720.4267  
+[Epoch 1564 TEST] bpp: 0.2953 psnr: 27.3390
+[Epoch 1565 TRAIN] Loss: 1.1167 bpp: 0.3868 mse: 729.8836  
+[Epoch 1565 TEST] bpp: 0.3144 psnr: 26.6066
+[Epoch 1566 TRAIN] Loss: 1.0937 bpp: 0.3854 mse: 708.3271  
+[Epoch 1566 TEST] bpp: 0.2967 psnr: 27.2824
+[Epoch 1567 TRAIN] Loss: 1.1026 bpp: 0.3860 mse: 716.5594  
+[Epoch 1567 TEST] bpp: 0.2804 psnr: 27.7051
+[Epoch 1568 TRAIN] Loss: 1.0951 bpp: 0.3879 mse: 707.2416  
+[Epoch 1568 TEST] bpp: 0.2839 psnr: 27.4180
+[Epoch 1569 TRAIN] Loss: 1.0973 bpp: 0.3852 mse: 712.1104  
+[Epoch 1569 TEST] bpp: 0.2697 psnr: 27.8885
+[Epoch 1570 TRAIN] Loss: 1.0894 bpp: 0.3876 mse: 701.8072  
+[Epoch 1570 TEST] bpp: 0.2878 psnr: 27.9596
+[Epoch 1571 TRAIN] Loss: 1.0911 bpp: 0.3874 mse: 703.7149  
+[Epoch 1571 TEST] bpp: 0.3054 psnr: 26.7425
+[Epoch 1572 TRAIN] Loss: 1.0907 bpp: 0.3845 mse: 706.2125  
+[Epoch 1572 TEST] bpp: 0.3017 psnr: 27.2851
+[Epoch 1573 TRAIN] Loss: 1.0821 bpp: 0.3860 mse: 696.1225  
+[Epoch 1573 TEST] bpp: 0.2976 psnr: 27.0257
+[Epoch 1574 TRAIN] Loss: 1.1202 bpp: 0.3906 mse: 729.6769  
+[Epoch 1574 TEST] bpp: 0.3050 psnr: 26.5761
+[Epoch 1575 TRAIN] Loss: 1.0745 bpp: 0.3866 mse: 687.9360  
+[Epoch 1575 TEST] bpp: 0.2768 psnr: 27.4857
+[Epoch 1576 TRAIN] Loss: 1.0787 bpp: 0.3850 mse: 693.7270  
+[Epoch 1576 TEST] bpp: 0.2690 psnr: 28.1057
+[Epoch 1577 TRAIN] Loss: 1.0525 bpp: 0.3843 mse: 668.2041  
+[Epoch 1577 TEST] bpp: 0.2983 psnr: 26.9344
+[Epoch 1578 TRAIN] Loss: 1.0687 bpp: 0.3824 mse: 686.3422  
+[Epoch 1578 TEST] bpp: 0.2820 psnr: 27.7071
+[Epoch 1579 TRAIN] Loss: 1.0767 bpp: 0.3850 mse: 691.6536  
+[Epoch 1579 TEST] bpp: 0.2968 psnr: 27.2574
+[Epoch 1580 TRAIN] Loss: 1.0678 bpp: 0.3831 mse: 684.7710  
+[Epoch 1580 TEST] bpp: 0.3055 psnr: 27.0174
+[Epoch 1581 TRAIN] Loss: 1.0569 bpp: 0.3843 mse: 672.5716  
+[Epoch 1581 TEST] bpp: 0.3066 psnr: 27.2025
+[Epoch 1582 TRAIN] Loss: 1.0553 bpp: 0.3825 mse: 672.7065  
+[Epoch 1582 TEST] bpp: 0.2586 psnr: 28.4429
+[Epoch 1583 TRAIN] Loss: 1.0624 bpp: 0.3806 mse: 681.8534  
+[Epoch 1583 TEST] bpp: 0.2840 psnr: 27.6761
+[Epoch 1584 TRAIN] Loss: 1.0566 bpp: 0.3749 mse: 681.6246  
+[Epoch 1584 TEST] bpp: 0.3060 psnr: 27.0174
+[Epoch 1585 TRAIN] Loss: 1.0950 bpp: 0.3811 mse: 713.9097  
+[Epoch 1585 TEST] bpp: 0.2870 psnr: 27.5684
+[Epoch 1586 TRAIN] Loss: 1.0622 bpp: 0.3757 mse: 686.5556  
+[Epoch 1586 TEST] bpp: 0.3128 psnr: 26.9236
+[Epoch 1587 TRAIN] Loss: 1.0345 bpp: 0.3759 mse: 658.6320  
+[Epoch 1587 TEST] bpp: 0.2733 psnr: 27.6732
+[Epoch 1588 TRAIN] Loss: 1.0470 bpp: 0.3780 mse: 668.9319  
+[Epoch 1588 TEST] bpp: 0.2994 psnr: 26.9641
+[Epoch 1589 TRAIN] Loss: 1.0586 bpp: 0.3791 mse: 679.4960  
+[Epoch 1589 TEST] bpp: 0.3022 psnr: 27.1156
+[Epoch 1590 TRAIN] Loss: 1.0576 bpp: 0.3765 mse: 681.1627  
+[Epoch 1590 TEST] bpp: 0.3124 psnr: 26.6539
+[Epoch 1591 TRAIN] Loss: 1.0545 bpp: 0.3796 mse: 674.8571  
+[Epoch 1591 TEST] bpp: 0.2944 psnr: 27.7677
+[Epoch 1592 TRAIN] Loss: 1.0115 bpp: 0.3702 mse: 641.3217  
+[Epoch 1592 TEST] bpp: 0.2985 psnr: 27.1619
+[Epoch 1593 TRAIN] Loss: 1.0137 bpp: 0.3703 mse: 643.4067  
+[Epoch 1593 TEST] bpp: 0.3015 psnr: 27.2162
+[Epoch 1594 TRAIN] Loss: 1.0337 bpp: 0.3742 mse: 659.4909  
+[Epoch 1594 TEST] bpp: 0.2956 psnr: 27.5160
+[Epoch 1595 TRAIN] Loss: 1.0379 bpp: 0.3738 mse: 664.1630  
+[Epoch 1595 TEST] bpp: 0.2717 psnr: 27.9680
+[Epoch 1596 TRAIN] Loss: 1.0277 bpp: 0.3747 mse: 653.0249  
+[Epoch 1596 TEST] bpp: 0.2597 psnr: 28.3073
+[Epoch 1597 TRAIN] Loss: 1.0223 bpp: 0.3716 mse: 650.6599  
+[Epoch 1597 TEST] bpp: 0.2959 psnr: 27.4145
+[Epoch 1598 TRAIN] Loss: 1.0511 bpp: 0.3753 mse: 675.8308  
+[Epoch 1598 TEST] bpp: 0.2829 psnr: 27.6252
+[Epoch 1599 TRAIN] Loss: 1.0102 bpp: 0.3684 mse: 641.7864  
+[Epoch 1599 TEST] bpp: 0.2670 psnr: 27.9320
+[Epoch 1600 TRAIN] Loss: 1.0305 bpp: 0.3722 mse: 658.2784  
+[Epoch 1600 TEST] bpp: 0.2711 psnr: 27.9672
+[Epoch 1601 TRAIN] Loss: 1.0023 bpp: 0.3693 mse: 633.0780  
+[Epoch 1601 TEST] bpp: 0.3067 psnr: 26.9083
+[Epoch 1602 TRAIN] Loss: 1.0348 bpp: 0.3711 mse: 663.6693  
+[Epoch 1602 TEST] bpp: 0.2757 psnr: 27.9309
+[Epoch 1603 TRAIN] Loss: 1.0233 bpp: 0.3724 mse: 650.9895  
+[Epoch 1603 TEST] bpp: 0.2792 psnr: 28.0756
+[Epoch 1604 TRAIN] Loss: 0.9909 bpp: 0.3672 mse: 623.6787  
+[Epoch 1604 TEST] bpp: 0.2700 psnr: 27.7956
+[Epoch 1605 TRAIN] Loss: 0.9895 bpp: 0.3645 mse: 624.9426  
+[Epoch 1605 TEST] bpp: 0.2875 psnr: 27.6495
+[Epoch 1606 TRAIN] Loss: 1.0038 bpp: 0.3662 mse: 637.6098  
+[Epoch 1606 TEST] bpp: 0.2620 psnr: 27.8957
+[Epoch 1607 TRAIN] Loss: 1.0097 bpp: 0.3676 mse: 642.0375  
+[Epoch 1607 TEST] bpp: 0.3191 psnr: 26.8089
+[Epoch 1608 TRAIN] Loss: 1.0193 bpp: 0.3680 mse: 651.3369  
+[Epoch 1608 TEST] bpp: 0.2749 psnr: 27.9518
+[Epoch 1609 TRAIN] Loss: 1.0185 bpp: 0.3696 mse: 648.9887  
+[Epoch 1609 TEST] bpp: 0.2913 psnr: 27.2606
+[Epoch 1610 TRAIN] Loss: 1.0299 bpp: 0.3701 mse: 659.7695  
+[Epoch 1610 TEST] bpp: 0.2846 psnr: 27.5245
+[Epoch 1611 TRAIN] Loss: 1.0084 bpp: 0.3696 mse: 638.8030  
+[Epoch 1611 TEST] bpp: 0.2627 psnr: 28.3435
+[Epoch 1612 TRAIN] Loss: 0.9974 bpp: 0.3673 mse: 630.0254  
+[Epoch 1612 TEST] bpp: 0.2726 psnr: 28.1591
+[Epoch 1613 TRAIN] Loss: 0.9930 bpp: 0.3644 mse: 628.5794  
+[Epoch 1613 TEST] bpp: 0.2722 psnr: 28.0943
+[Epoch 1614 TRAIN] Loss: 0.9707 bpp: 0.3612 mse: 609.5491  
+[Epoch 1614 TEST] bpp: 0.2816 psnr: 27.6416
+[Epoch 1615 TRAIN] Loss: 1.0048 bpp: 0.3685 mse: 636.3299  
+[Epoch 1615 TEST] bpp: 0.2699 psnr: 27.8659
+[Epoch 1616 TRAIN] Loss: 1.0046 bpp: 0.3662 mse: 638.3926  
+[Epoch 1616 TEST] bpp: 0.2986 psnr: 27.4317
+[Epoch 1617 TRAIN] Loss: 0.9870 bpp: 0.3620 mse: 625.0094  
+[Epoch 1617 TEST] bpp: 0.2980 psnr: 27.2665
+[Epoch 1618 TRAIN] Loss: 1.0086 bpp: 0.3636 mse: 644.9979  
+[Epoch 1618 TEST] bpp: 0.2892 psnr: 27.6778
+[Epoch 1619 TRAIN] Loss: 0.9909 bpp: 0.3633 mse: 627.6220  
+[Epoch 1619 TEST] bpp: 0.2865 psnr: 27.3821
+[Epoch 1620 TRAIN] Loss: 0.9956 bpp: 0.3669 mse: 628.6599  
+[Epoch 1620 TEST] bpp: 0.2602 psnr: 28.2414
+[Epoch 1621 TRAIN] Loss: 0.9829 bpp: 0.3579 mse: 624.9789  
+[Epoch 1621 TEST] bpp: 0.3004 psnr: 26.5967
+[Epoch 1622 TRAIN] Loss: 0.9717 bpp: 0.3595 mse: 612.1793  
+[Epoch 1622 TEST] bpp: 0.2727 psnr: 28.0114
+[Epoch 1623 TRAIN] Loss: 1.0149 bpp: 0.3680 mse: 646.8844  
+[Epoch 1623 TEST] bpp: 0.2817 psnr: 27.9406
+[Epoch 1624 TRAIN] Loss: 0.9923 bpp: 0.3630 mse: 629.3694  
+[Epoch 1624 TEST] bpp: 0.2983 psnr: 27.3798
+[Epoch 1625 TRAIN] Loss: 0.9933 bpp: 0.3622 mse: 631.0782  
+[Epoch 1625 TEST] bpp: 0.2749 psnr: 28.0803
+[Epoch 1626 TRAIN] Loss: 0.9805 bpp: 0.3582 mse: 622.3241  
+[Epoch 1626 TEST] bpp: 0.2935 psnr: 27.4712
+[Epoch 1627 TRAIN] Loss: 0.9938 bpp: 0.3639 mse: 629.8785  
+[Epoch 1627 TEST] bpp: 0.2995 psnr: 27.2136
+[Epoch 1628 TRAIN] Loss: 1.0055 bpp: 0.3657 mse: 639.7792  
+[Epoch 1628 TEST] bpp: 0.2673 psnr: 28.0666
+[Epoch 1629 TRAIN] Loss: 0.9963 bpp: 0.3636 mse: 632.6901  
+[Epoch 1629 TEST] bpp: 0.2836 psnr: 27.8952
+[Epoch 1630 TRAIN] Loss: 0.9624 bpp: 0.3585 mse: 603.8970  
+[Epoch 1630 TEST] bpp: 0.2688 psnr: 28.1377
+[Epoch 1631 TRAIN] Loss: 0.9813 bpp: 0.3590 mse: 622.2893  
+[Epoch 1631 TEST] bpp: 0.3190 psnr: 26.8172
+[Epoch 1632 TRAIN] Loss: 1.0008 bpp: 0.3611 mse: 639.6994  
+[Epoch 1632 TEST] bpp: 0.2703 psnr: 28.0317
+[Epoch 1633 TRAIN] Loss: 0.9893 bpp: 0.3610 mse: 628.3318  
+[Epoch 1633 TEST] bpp: 0.2689 psnr: 27.9110
+[Epoch 1634 TRAIN] Loss: 0.9861 bpp: 0.3627 mse: 623.4388  
+[Epoch 1634 TEST] bpp: 0.2726 psnr: 28.1450
+[Epoch 1635 TRAIN] Loss: 0.9776 bpp: 0.3579 mse: 619.7004  
+[Epoch 1635 TEST] bpp: 0.2649 psnr: 28.3176
+[Epoch 1636 TRAIN] Loss: 0.9800 bpp: 0.3582 mse: 621.8165  
+[Epoch 1636 TEST] bpp: 0.2658 psnr: 28.3423
+[Epoch 1637 TRAIN] Loss: 0.9830 bpp: 0.3645 mse: 618.4741  
+[Epoch 1637 TEST] bpp: 0.2816 psnr: 27.7934
+[Epoch 1638 TRAIN] Loss: 0.9977 bpp: 0.3608 mse: 636.9411  
+[Epoch 1638 TEST] bpp: 0.2851 psnr: 27.5856
+[Epoch 1639 TRAIN] Loss: 0.9808 bpp: 0.3595 mse: 621.2745  
+[Epoch 1639 TEST] bpp: 0.2604 psnr: 28.1565
+[Epoch 1640 TRAIN] Loss: 0.9798 bpp: 0.3605 mse: 619.3479  
+[Epoch 1640 TEST] bpp: 0.2690 psnr: 28.0554
+[Epoch 1641 TRAIN] Loss: 0.9799 bpp: 0.3585 mse: 621.4770  
+[Epoch 1641 TEST] bpp: 0.2795 psnr: 27.6787
+[Epoch 1642 TRAIN] Loss: 0.9713 bpp: 0.3598 mse: 611.4936  
+[Epoch 1642 TEST] bpp: 0.2798 psnr: 28.1018
+[Epoch 1643 TRAIN] Loss: 0.9991 bpp: 0.3623 mse: 636.8332  
+[Epoch 1643 TEST] bpp: 0.3002 psnr: 26.9654
+[Epoch 1644 TRAIN] Loss: 0.9888 bpp: 0.3602 mse: 628.5640  
+[Epoch 1644 TEST] bpp: 0.2712 psnr: 28.0063
+[Epoch 1645 TRAIN] Loss: 0.9797 bpp: 0.3586 mse: 621.0702  
+[Epoch 1645 TEST] bpp: 0.2600 psnr: 28.1235
+[Epoch 1646 TRAIN] Loss: 0.9731 bpp: 0.3571 mse: 616.0555  
+[Epoch 1646 TEST] bpp: 0.2861 psnr: 27.4436
+[Epoch 1647 TRAIN] Loss: 0.9587 bpp: 0.3573 mse: 601.4107  
+[Epoch 1647 TEST] bpp: 0.2673 psnr: 28.1892
+[Epoch 1648 TRAIN] Loss: 0.9715 bpp: 0.3569 mse: 614.6178  
+[Epoch 1648 TEST] bpp: 0.2702 psnr: 28.4251
+[Epoch 1649 TRAIN] Loss: 0.9542 bpp: 0.3546 mse: 599.6067  
+[Epoch 1649 TEST] bpp: 0.2634 psnr: 28.0650
+[INFO] Saving
+[Epoch 1650 TRAIN] Loss: 0.9958 bpp: 0.3591 mse: 636.7566  
+[Epoch 1650 TEST] bpp: 0.2998 psnr: 27.1320
+[Epoch 1651 TRAIN] Loss: 0.9512 bpp: 0.3519 mse: 599.2437  
+[Epoch 1651 TEST] bpp: 0.2649 psnr: 28.3067
+[Epoch 1652 TRAIN] Loss: 0.9701 bpp: 0.3578 mse: 612.3449  
+[Epoch 1652 TEST] bpp: 0.2642 psnr: 27.8028
+[Epoch 1653 TRAIN] Loss: 0.9640 bpp: 0.3525 mse: 611.4931  
+[Epoch 1653 TEST] bpp: 0.2667 psnr: 28.0639
+[Epoch 1654 TRAIN] Loss: 0.9588 bpp: 0.3539 mse: 604.8147  
+[Epoch 1654 TEST] bpp: 0.3050 psnr: 27.3412
+[Epoch 1655 TRAIN] Loss: 0.9447 bpp: 0.3504 mse: 594.3145  
+[Epoch 1655 TEST] bpp: 0.2728 psnr: 28.0820
+[Epoch 1656 TRAIN] Loss: 0.9623 bpp: 0.3567 mse: 605.5932  
+[Epoch 1656 TEST] bpp: 0.2692 psnr: 28.0835
+[Epoch 1657 TRAIN] Loss: 0.9805 bpp: 0.3583 mse: 622.1768  
+[Epoch 1657 TEST] bpp: 0.2744 psnr: 27.7538
+[Epoch 1658 TRAIN] Loss: 0.9661 bpp: 0.3559 mse: 610.2598  
+[Epoch 1658 TEST] bpp: 0.2657 psnr: 28.0163
+[Epoch 1659 TRAIN] Loss: 0.9808 bpp: 0.3551 mse: 625.6600  
+[Epoch 1659 TEST] bpp: 0.2933 psnr: 27.4244
+[Epoch 1660 TRAIN] Loss: 0.9791 bpp: 0.3567 mse: 622.4122  
+[Epoch 1660 TEST] bpp: 0.2654 psnr: 28.3321
+[Epoch 1661 TRAIN] Loss: 0.9635 bpp: 0.3560 mse: 607.5392  
+[Epoch 1661 TEST] bpp: 0.2645 psnr: 28.0980
+[Epoch 1662 TRAIN] Loss: 0.9428 bpp: 0.3525 mse: 590.3597  
+[Epoch 1662 TEST] bpp: 0.2601 psnr: 28.0642
+[Epoch 1663 TRAIN] Loss: 0.9593 bpp: 0.3527 mse: 606.6144  
+[Epoch 1663 TEST] bpp: 0.2602 psnr: 28.1583
+[Epoch 1664 TRAIN] Loss: 0.9680 bpp: 0.3536 mse: 614.3500  
+[Epoch 1664 TEST] bpp: 0.2881 psnr: 27.4646
+[Epoch 1665 TRAIN] Loss: 0.9508 bpp: 0.3532 mse: 597.5765  
+[Epoch 1665 TEST] bpp: 0.2841 psnr: 27.6850
+[Epoch 1666 TRAIN] Loss: 0.9623 bpp: 0.3539 mse: 608.4708  
+[Epoch 1666 TEST] bpp: 0.2868 psnr: 27.6358
+[Epoch 1667 TRAIN] Loss: 0.9434 bpp: 0.3509 mse: 592.4444  
+[Epoch 1667 TEST] bpp: 0.2688 psnr: 27.9049
+[Epoch 1668 TRAIN] Loss: 0.9318 bpp: 0.3484 mse: 583.3357  
+[Epoch 1668 TEST] bpp: 0.2748 psnr: 27.8761
+[Epoch 1669 TRAIN] Loss: 0.9439 bpp: 0.3481 mse: 595.7668  
+[Epoch 1669 TEST] bpp: 0.2719 psnr: 28.0964
+[Epoch 1670 TRAIN] Loss: 0.9501 bpp: 0.3502 mse: 599.8877  
+[Epoch 1670 TEST] bpp: 0.2717 psnr: 28.0415
+[Epoch 1671 TRAIN] Loss: 0.9651 bpp: 0.3541 mse: 610.9298  
+[Epoch 1671 TEST] bpp: 0.2785 psnr: 27.8891
+[Epoch 1672 TRAIN] Loss: 0.9694 bpp: 0.3553 mse: 614.1370  
+[Epoch 1672 TEST] bpp: 0.2749 psnr: 27.7529
+[Epoch 1673 TRAIN] Loss: 0.9612 bpp: 0.3534 mse: 607.7704  
+[Epoch 1673 TEST] bpp: 0.2657 psnr: 28.1249
+[Epoch 1674 TRAIN] Loss: 0.9408 bpp: 0.3475 mse: 593.2840  
+[Epoch 1674 TEST] bpp: 0.2732 psnr: 27.9304
+[Epoch 1675 TRAIN] Loss: 0.9399 bpp: 0.3496 mse: 590.2395  
+[Epoch 1675 TEST] bpp: 0.2667 psnr: 28.1027
+[Epoch 1676 TRAIN] Loss: 0.9806 bpp: 0.3579 mse: 622.6711  
+[Epoch 1676 TEST] bpp: 0.2706 psnr: 27.8302
+[Epoch 1677 TRAIN] Loss: 0.9106 bpp: 0.3422 mse: 568.3923  
+[Epoch 1677 TEST] bpp: 0.2667 psnr: 28.2290
+[Epoch 1678 TRAIN] Loss: 0.9441 bpp: 0.3499 mse: 594.2257  
+[Epoch 1678 TEST] bpp: 0.2818 psnr: 27.6851
+[Epoch 1679 TRAIN] Loss: 0.9416 bpp: 0.3495 mse: 592.1072  
+[Epoch 1679 TEST] bpp: 0.2838 psnr: 27.6212
+[Epoch 1680 TRAIN] Loss: 0.9420 bpp: 0.3487 mse: 593.2614  
+[Epoch 1680 TEST] bpp: 0.2736 psnr: 27.9440
+[Epoch 1681 TRAIN] Loss: 0.9486 bpp: 0.3493 mse: 599.2450  
+[Epoch 1681 TEST] bpp: 0.2683 psnr: 28.0070
+[Epoch 1682 TRAIN] Loss: 0.9591 bpp: 0.3542 mse: 604.8697  
+[Epoch 1682 TEST] bpp: 0.2680 psnr: 27.9047
+[Epoch 1683 TRAIN] Loss: 0.9349 bpp: 0.3470 mse: 587.8954  
+[Epoch 1683 TEST] bpp: 0.2742 psnr: 28.1680
+[Epoch 1684 TRAIN] Loss: 0.9537 bpp: 0.3497 mse: 603.9674  
+[Epoch 1684 TEST] bpp: 0.2579 psnr: 28.3465
+[Epoch 1685 TRAIN] Loss: 0.9550 bpp: 0.3528 mse: 602.1813  
+[Epoch 1685 TEST] bpp: 0.2791 psnr: 27.6532
+[Epoch 1686 TRAIN] Loss: 0.9428 bpp: 0.3508 mse: 592.0480  
+[Epoch 1686 TEST] bpp: 0.2496 psnr: 28.7873
+[Epoch 1687 TRAIN] Loss: 0.9277 bpp: 0.3467 mse: 580.9980  
+[Epoch 1687 TEST] bpp: 0.2739 psnr: 27.7928
+[Epoch 1688 TRAIN] Loss: 0.9586 bpp: 0.3506 mse: 608.0142  
+[Epoch 1688 TEST] bpp: 0.2618 psnr: 27.9978
+[Epoch 1689 TRAIN] Loss: 0.9532 bpp: 0.3495 mse: 603.7359  
+[Epoch 1689 TEST] bpp: 0.2800 psnr: 27.5599
+[Epoch 1690 TRAIN] Loss: 0.9361 bpp: 0.3484 mse: 587.7146  
+[Epoch 1690 TEST] bpp: 0.2800 psnr: 27.4914
+[Epoch 1691 TRAIN] Loss: 0.9382 bpp: 0.3489 mse: 589.2965  
+[Epoch 1691 TEST] bpp: 0.2700 psnr: 28.0731
+[Epoch 1692 TRAIN] Loss: 0.9298 bpp: 0.3473 mse: 582.4440  
+[Epoch 1692 TEST] bpp: 0.2536 psnr: 28.3799
+[Epoch 1693 TRAIN] Loss: 0.9452 bpp: 0.3496 mse: 595.5424  
+[Epoch 1693 TEST] bpp: 0.2757 psnr: 27.7756
+[Epoch 1694 TRAIN] Loss: 0.9078 bpp: 0.3424 mse: 565.3622  
+[Epoch 1694 TEST] bpp: 0.2580 psnr: 28.1569
+[Epoch 1695 TRAIN] Loss: 0.9389 bpp: 0.3475 mse: 591.3756  
+[Epoch 1695 TEST] bpp: 0.2723 psnr: 27.7049
+[Epoch 1696 TRAIN] Loss: 0.9264 bpp: 0.3456 mse: 580.8114  
+[Epoch 1696 TEST] bpp: 0.2554 psnr: 28.4233
+[Epoch 1697 TRAIN] Loss: 0.9525 bpp: 0.3510 mse: 601.5090  
+[Epoch 1697 TEST] bpp: 0.2498 psnr: 28.7892
+[Epoch 1698 TRAIN] Loss: 0.9395 bpp: 0.3465 mse: 592.9844  
+[Epoch 1698 TEST] bpp: 0.2789 psnr: 27.6981
+[Epoch 1699 TRAIN] Loss: 0.9283 bpp: 0.3466 mse: 581.7279  
+[Epoch 1699 TEST] bpp: 0.2837 psnr: 27.9451
+[Epoch 1700 TRAIN] Loss: 0.9147 bpp: 0.3427 mse: 571.9651  
+[Epoch 1700 TEST] bpp: 0.2664 psnr: 27.9072
+[Epoch 1701 TRAIN] Loss: 0.9531 bpp: 0.3513 mse: 601.8016  
+[Epoch 1701 TEST] bpp: 0.2664 psnr: 28.0124
+[Epoch 1702 TRAIN] Loss: 0.9328 bpp: 0.3495 mse: 583.2876  
+[Epoch 1702 TEST] bpp: 0.2468 psnr: 28.3609
+[Epoch 1703 TRAIN] Loss: 0.9281 bpp: 0.3460 mse: 582.0861  
+[Epoch 1703 TEST] bpp: 0.2505 psnr: 28.6436
+[Epoch 1704 TRAIN] Loss: 0.9255 bpp: 0.3456 mse: 579.8602  
+[Epoch 1704 TEST] bpp: 0.2514 psnr: 28.1471
+[Epoch 1705 TRAIN] Loss: 0.9325 bpp: 0.3450 mse: 587.4597  
+[Epoch 1705 TEST] bpp: 0.2777 psnr: 27.7620
+[Epoch 1706 TRAIN] Loss: 0.9500 bpp: 0.3463 mse: 603.6312  
+[Epoch 1706 TEST] bpp: 0.2731 psnr: 27.7967
+[Epoch 1707 TRAIN] Loss: 0.9419 bpp: 0.3482 mse: 593.6841  
+[Epoch 1707 TEST] bpp: 0.2620 psnr: 28.2852
+[Epoch 1708 TRAIN] Loss: 0.9271 bpp: 0.3423 mse: 584.7207  
+[Epoch 1708 TEST] bpp: 0.2644 psnr: 28.2192
+[Epoch 1709 TRAIN] Loss: 0.9308 bpp: 0.3453 mse: 585.4903  
+[Epoch 1709 TEST] bpp: 0.2738 psnr: 27.8044
+[Epoch 1710 TRAIN] Loss: 0.9290 bpp: 0.3449 mse: 584.1506  
+[Epoch 1710 TEST] bpp: 0.2469 psnr: 28.6989
+[Epoch 1711 TRAIN] Loss: 0.9237 bpp: 0.3453 mse: 578.3629  
+[Epoch 1711 TEST] bpp: 0.2747 psnr: 27.8508
+[Epoch 1712 TRAIN] Loss: 0.9273 bpp: 0.3404 mse: 586.8748  
+[Epoch 1712 TEST] bpp: 0.2689 psnr: 27.6739
+[Epoch 1713 TRAIN] Loss: 0.9510 bpp: 0.3479 mse: 603.1088  
+[Epoch 1713 TEST] bpp: 0.2606 psnr: 28.4434
+[Epoch 1714 TRAIN] Loss: 0.9246 bpp: 0.3444 mse: 580.1565  
+[Epoch 1714 TEST] bpp: 0.2624 psnr: 27.9125
+[Epoch 1715 TRAIN] Loss: 0.9333 bpp: 0.3439 mse: 589.4548  
+[Epoch 1715 TEST] bpp: 0.2812 psnr: 27.7190
+[Epoch 1716 TRAIN] Loss: 0.9483 bpp: 0.3486 mse: 599.6690  
+[Epoch 1716 TEST] bpp: 0.2720 psnr: 27.9610
+[Epoch 1717 TRAIN] Loss: 0.9475 bpp: 0.3478 mse: 599.7749  
+[Epoch 1717 TEST] bpp: 0.2686 psnr: 28.1687
+[Epoch 1718 TRAIN] Loss: 0.9517 bpp: 0.3473 mse: 604.3684  
+[Epoch 1718 TEST] bpp: 0.2723 psnr: 27.7409
+[Epoch 1719 TRAIN] Loss: 0.9232 bpp: 0.3450 mse: 578.2494  
+[Epoch 1719 TEST] bpp: 0.2875 psnr: 27.9712
+[Epoch 1720 TRAIN] Loss: 0.9152 bpp: 0.3437 mse: 571.4124  
+[Epoch 1720 TEST] bpp: 0.2583 psnr: 28.6759
+[Epoch 1721 TRAIN] Loss: 0.9104 bpp: 0.3423 mse: 568.1770  
+[Epoch 1721 TEST] bpp: 0.2731 psnr: 28.0329
+[Epoch 1722 TRAIN] Loss: 0.9474 bpp: 0.3475 mse: 599.8780  
+[Epoch 1722 TEST] bpp: 0.2603 psnr: 28.4670
+[Epoch 1723 TRAIN] Loss: 0.9299 bpp: 0.3455 mse: 584.4118  
+[Epoch 1723 TEST] bpp: 0.2653 psnr: 27.8889
+[Epoch 1724 TRAIN] Loss: 0.9238 bpp: 0.3436 mse: 580.1528  
+[Epoch 1724 TEST] bpp: 0.2865 psnr: 27.6092
+[Epoch 1725 TRAIN] Loss: 0.9070 bpp: 0.3419 mse: 565.1053  
+[Epoch 1725 TEST] bpp: 0.2674 psnr: 28.0243
+[Epoch 1726 TRAIN] Loss: 0.9096 bpp: 0.3416 mse: 567.9747  
+[Epoch 1726 TEST] bpp: 0.2524 psnr: 28.8005
+[Epoch 1727 TRAIN] Loss: 0.9249 bpp: 0.3419 mse: 582.9648  
+[Epoch 1727 TEST] bpp: 0.2731 psnr: 27.8653
+[Epoch 1728 TRAIN] Loss: 0.9207 bpp: 0.3410 mse: 579.7389  
+[Epoch 1728 TEST] bpp: 0.2587 psnr: 28.5965
+[Epoch 1729 TRAIN] Loss: 0.9307 bpp: 0.3469 mse: 583.8060  
+[Epoch 1729 TEST] bpp: 0.2590 psnr: 28.3887
+[Epoch 1730 TRAIN] Loss: 0.9283 bpp: 0.3425 mse: 585.7268  
+[Epoch 1730 TEST] bpp: 0.2570 psnr: 28.6671
+[Epoch 1731 TRAIN] Loss: 0.9357 bpp: 0.3451 mse: 590.5644  
+[Epoch 1731 TEST] bpp: 0.2467 psnr: 28.8607
+[Epoch 1732 TRAIN] Loss: 0.9266 bpp: 0.3443 mse: 582.3123  
+[Epoch 1732 TEST] bpp: 0.2629 psnr: 28.0683
+[Epoch 1733 TRAIN] Loss: 0.9228 bpp: 0.3460 mse: 576.7967  
+[Epoch 1733 TEST] bpp: 0.2765 psnr: 27.9661
+[Epoch 1734 TRAIN] Loss: 0.9145 bpp: 0.3412 mse: 573.2411  
+[Epoch 1734 TEST] bpp: 0.2448 psnr: 28.6579
+[Epoch 1735 TRAIN] Loss: 0.9270 bpp: 0.3454 mse: 581.5926  
+[Epoch 1735 TEST] bpp: 0.2495 psnr: 28.7274
+[Epoch 1736 TRAIN] Loss: 0.9098 bpp: 0.3419 mse: 567.8837  
+[Epoch 1736 TEST] bpp: 0.2485 psnr: 29.0389
+[Epoch 1737 TRAIN] Loss: 0.9108 bpp: 0.3379 mse: 572.9273  
+[Epoch 1737 TEST] bpp: 0.2739 psnr: 27.8126
+[Epoch 1738 TRAIN] Loss: 0.9268 bpp: 0.3442 mse: 582.6039  
+[Epoch 1738 TEST] bpp: 0.2479 psnr: 28.9345
+[Epoch 1739 TRAIN] Loss: 0.9342 bpp: 0.3441 mse: 590.0477  
+[Epoch 1739 TEST] bpp: 0.2557 psnr: 28.4870
+[Epoch 1740 TRAIN] Loss: 0.9257 bpp: 0.3438 mse: 581.9316  
+[Epoch 1740 TEST] bpp: 0.2729 psnr: 28.7315
+[Epoch 1741 TRAIN] Loss: 0.9288 bpp: 0.3459 mse: 582.9154  
+[Epoch 1741 TEST] bpp: 0.2433 psnr: 28.6663
+[Epoch 1742 TRAIN] Loss: 0.9202 bpp: 0.3436 mse: 576.6838  
+[Epoch 1742 TEST] bpp: 0.2642 psnr: 28.2682
+[Epoch 1743 TRAIN] Loss: 0.9104 bpp: 0.3415 mse: 568.8508  
+[Epoch 1743 TEST] bpp: 0.2667 psnr: 28.3587
+[Epoch 1744 TRAIN] Loss: 0.9129 bpp: 0.3405 mse: 572.4291  
+[Epoch 1744 TEST] bpp: 0.2640 psnr: 28.1584
+[Epoch 1745 TRAIN] Loss: 0.9567 bpp: 0.3476 mse: 609.0551  
+[Epoch 1745 TEST] bpp: 0.2676 psnr: 27.9160
+[Epoch 1746 TRAIN] Loss: 0.9331 bpp: 0.3451 mse: 588.0348  
+[Epoch 1746 TEST] bpp: 0.2725 psnr: 28.0703
+[Epoch 1747 TRAIN] Loss: 0.9293 bpp: 0.3435 mse: 585.7818  
+[Epoch 1747 TEST] bpp: 0.2863 psnr: 27.6911
+[Epoch 1748 TRAIN] Loss: 0.9220 bpp: 0.3398 mse: 582.2061  
+[Epoch 1748 TEST] bpp: 0.2710 psnr: 28.1115
